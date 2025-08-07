@@ -1,5 +1,8 @@
 # 📊 Regression Model Selection in R
 
+[![Made with R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)](https://www.r-project.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project presents a comparative analysis of four linear regression strategies to identify the best predictive model for a given dataset. It was developed as part of a university course project in Data Science (Master's Degree in Computer Engineering at University of Salerno), and demonstrates the ability to apply advanced regression techniques using R.
 
 > This demonstrates proficiency in R programming, statistical analysis, and reproducible research workflows.
