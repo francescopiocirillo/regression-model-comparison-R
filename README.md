@@ -13,7 +13,7 @@ Given a dataset with 100 observations, one dependent variable `Y`, and 25 potent
 
 ## 🌍 Language Note
 
-All code comments are written in Italian, as this project was originally developed in an academic setting in Italy. Nonetheless, the structure, organization, and methodology follow international best practices in data science and statistical modeling.
+All code comments and the report are written in Italian, as this project was originally developed in an academic setting in Italy. Nonetheless, the structure, organization, and methodology follow international best practices in data science and statistical modeling.
 
 ## 🛠️ Techniques Applied
 
