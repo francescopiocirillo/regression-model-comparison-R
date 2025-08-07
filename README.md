@@ -4,6 +4,8 @@ This project presents a comparative analysis of four linear regression strategie
 
 > This demonstrates proficiency in R programming, statistical analysis, and reproducible research workflows.
 
+📂 This project is part of a series of regression analysis case studies. For another similar project, see [linear-regression-from-scratch-R](https://github.com/francescopiocirillo/linear-regression-from-scratch-R).
+
 ## 📌 Objective
 
 Given a dataset with 100 observations, one dependent variable `Y`, and 25 potential predictors `X1, X2, ..., X25`, the goal is to:
@@ -66,6 +68,10 @@ Four model selection techniques were implemented and compared:
 
 - **Language:** R
 - **Packages:** `leaps`, `glmnet`, `car`, `corrplot`, `boot`, `plotmo`
+
+## 🎓 About the Project
+
+This project was created as part of the *Data Science & Data Analysis* course (2024/2025) for the Master’s Degree in Computer Engineering at the **University of Salerno**.
 
 ## 📬 Contacts
 
